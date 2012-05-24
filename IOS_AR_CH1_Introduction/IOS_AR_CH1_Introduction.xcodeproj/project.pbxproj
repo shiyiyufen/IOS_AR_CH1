@@ -35,17 +35,17 @@
 		18ADCC7B156DFFE100F5B8A1 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		18ADCC7D156DFFE100F5B8A1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		18ADCC7F156DFFE100F5B8A1 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		18ADCC83156DFFE100F5B8A1 /* IOS_AR_CH1_Introduction-Info.plist */ = {isa = PBXFileReference; path = "IOS_AR_CH1_Introduction-Info.plist"; sourceTree = "<group>"; };
+		18ADCC83156DFFE100F5B8A1 /* IOS_AR_CH1_Introduction-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "IOS_AR_CH1_Introduction-Info.plist"; sourceTree = "<group>"; };
 		18ADCC85156DFFE100F5B8A1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		18ADCC87156DFFE100F5B8A1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		18ADCC89156DFFE100F5B8A1 /* IOS_AR_CH1_Introduction-Prefix.pch */ = {isa = PBXFileReference; path = "IOS_AR_CH1_Introduction-Prefix.pch"; sourceTree = "<group>"; };
-		18ADCC8A156DFFE100F5B8A1 /* ARAppDelegate.h */ = {isa = PBXFileReference; path = ARAppDelegate.h; sourceTree = "<group>"; };
+		18ADCC89156DFFE100F5B8A1 /* IOS_AR_CH1_Introduction-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IOS_AR_CH1_Introduction-Prefix.pch"; sourceTree = "<group>"; };
+		18ADCC8A156DFFE100F5B8A1 /* ARAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ARAppDelegate.h; sourceTree = "<group>"; };
 		18ADCC8B156DFFE100F5B8A1 /* ARAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ARAppDelegate.m; sourceTree = "<group>"; };
 		18ADCC92156DFFE100F5B8A1 /* IOS_AR_CH1_IntroductionTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IOS_AR_CH1_IntroductionTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18ADCC93156DFFE100F5B8A1 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		18ADCC9B156DFFE100F5B8A1 /* IOS_AR_CH1_IntroductionTests-Info.plist */ = {isa = PBXFileReference; path = "IOS_AR_CH1_IntroductionTests-Info.plist"; sourceTree = "<group>"; };
+		18ADCC9B156DFFE100F5B8A1 /* IOS_AR_CH1_IntroductionTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "IOS_AR_CH1_IntroductionTests-Info.plist"; sourceTree = "<group>"; };
 		18ADCC9D156DFFE100F5B8A1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		18ADCC9F156DFFE100F5B8A1 /* IOS_AR_CH1_IntroductionTests.h */ = {isa = PBXFileReference; path = IOS_AR_CH1_IntroductionTests.h; sourceTree = "<group>"; };
+		18ADCC9F156DFFE100F5B8A1 /* IOS_AR_CH1_IntroductionTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IOS_AR_CH1_IntroductionTests.h; sourceTree = "<group>"; };
 		18ADCCA0156DFFE100F5B8A1 /* IOS_AR_CH1_IntroductionTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IOS_AR_CH1_IntroductionTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
